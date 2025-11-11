@@ -33,5 +33,6 @@ This repository is my contribution toward that vision:
 | Project | Description |
 |--------|-------------|
 | [Village Rehabilitation Dashboard](./HIAL-PowerBI-Dashboard/README.md) | Power BI dashboard analyzing environmental and migration risks across 12 Ladakhi villages, designed for HIAL. |
+| Pratibimb | The Empathy Recommendation Engine |
 
 *(More coming soon...)*
